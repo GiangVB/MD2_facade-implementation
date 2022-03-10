@@ -1,0 +1,1 @@
+# Thực hành Java triển khai Facade Design Pattern #
